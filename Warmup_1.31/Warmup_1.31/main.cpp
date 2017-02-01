@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	int subtract;
-	cout << "how much money do you want to take out?" << endl;
-	cin >> subtract;
-	cout << "you know have" << 1000 - subtract;
+	cout << "how do you know when the moon is broke?" << endl<<endl<<endl<<endl;
+
+	cout << "when it is on its last quourter" << endl;
+}
